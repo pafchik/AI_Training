@@ -7,3 +7,5 @@ age = 20
 message = make_message(name, age)
 
 print(message)
+
+print("Git is working!")
