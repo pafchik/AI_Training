@@ -22,3 +22,10 @@ AI Training
 ## Статус
 
 В процессе обучения.
+
+## Progress
+
+- Python basics
+- Git and GitHub
+- HTTP / API / JSON
+- OpenAI API
